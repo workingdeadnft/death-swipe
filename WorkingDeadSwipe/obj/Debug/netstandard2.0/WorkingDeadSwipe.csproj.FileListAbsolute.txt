@@ -1,0 +1,14 @@
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/bin/Debug/netstandard2.0/WorkingDeadSwipe.deps.json
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/bin/Debug/netstandard2.0/WorkingDeadSwipe.dll
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/bin/Debug/netstandard2.0/ref/WorkingDeadSwipe.dll
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/bin/Debug/netstandard2.0/WorkingDeadSwipe.pdb
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/WorkingDeadSwipe.csproj.AssemblyReference.cache
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/WorkingDeadSwipe.AssemblyInfoInputs.cache
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/WorkingDeadSwipe.AssemblyInfo.cs
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/WorkingDeadSwipe.csproj.CoreCompileInputs.cache
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/WorkingDeadSwipe.dll
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/ref/WorkingDeadSwipe.dll
+/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/Debug/netstandard2.0/WorkingDeadSwipe.pdb

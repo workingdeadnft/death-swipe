@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe.iOS/WorkingDeadSwipe.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe.iOS/WorkingDeadSwipe.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe.iOS/WorkingDeadSwipe.iOS.csproj",
+        "projectName": "WorkingDeadSwipe.iOS",
+        "projectPath": "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe.iOS/WorkingDeadSwipe.iOS.csproj",
+        "packagesPath": "/Users/seandavies/.nuget/packages/",
+        "outputPath": "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/seandavies/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/WorkingDeadSwipe.csproj": {
+                "projectPath": "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/WorkingDeadSwipe.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "CardsView": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/WorkingDeadSwipe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/WorkingDeadSwipe.csproj",
+        "projectName": "WorkingDeadSwipe",
+        "projectPath": "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/WorkingDeadSwipe.csproj",
+        "packagesPath": "/Users/seandavies/.nuget/packages/",
+        "outputPath": "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seandavies/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "CardsView": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:cards="clr-namespace:PanCardView;assembly=PanCardView"
+             BackgroundColor="#252524"
+             x:Class="WorkingDeadSwipe.MainPage">
+    <ContentPage.Content>
+        <Grid RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="230" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="100" />
+            </Grid.RowDefinitions>
+
+            <Image Source="logo_yellow.png" VerticalOptions="Center" HorizontalOptions="Center" />
+
+
+            <BoxView Grid.Row="1"  BackgroundColor="#FF131D"/>
+            <Image Source="torn_paper_red.png" VerticalOptions="End" />
+
+            <StackLayout Grid.Row="1" Spacing="40" VerticalOptions="Center" BackgroundColor="#FF131D">
+                <Label Text="DEATH SWIPE!" FontFamily="ORATORSTD" TextColor="#252524" FontSize="40" HorizontalOptions="Center" VerticalOptions="Start" />
+ <cards:CardsView
+                 
+                BackgroundColor="#FF131D"
+                ItemsSource="{Binding WorkingDeadItems}">
+                <cards:CardsView.ItemTemplate>
+                    <DataTemplate>
+                        <ContentView>
+                            <Frame 
+                                VerticalOptions="Center"
+                                HorizontalOptions="Center"
+                                HeightRequest="300"
+                                WidthRequest="300"
+                                Padding="0" 
+                                HasShadow="false"
+                                IsClippedToBounds="true"
+                                CornerRadius="5"
+                                BackgroundColor="{Binding Color}">
+                    
+                                <Image Source="{Binding Image}"/> 
+                    
+                            </Frame>
+                        </ContentView>
+                    </DataTemplate>
+                </cards:CardsView.ItemTemplate>
+            </cards:CardsView>
+            </StackLayout>
+            
+
+             <Image Source="torn_paper_red_flipped.png" Grid.Row="2" VerticalOptions="Start" />
+        </Grid>
+       
+    </ContentPage.Content>
+</ContentPage>

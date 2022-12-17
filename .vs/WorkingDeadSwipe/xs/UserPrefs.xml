@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{CDB53ECE-F55B-4B99-800A-54C8FF815264}|Default">
+  <MonoDevelop.Ide.ItemProperties.WorkingDeadSwipe.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingDeadSwipe/ViewModels/MainSwipeViewModel.cs">
+    <Files>
+      <File FileName="WorkingDeadSwipe/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="WorkingDeadSwipe/MainPage.xaml" />
+      <File FileName="WorkingDeadSwipe/ViewModels/MainSwipeViewModel.cs" Line="29" Column="61" />
+      <File FileName="WorkingDeadSwipe/MainPage.xaml.cs" />
+      <File FileName="WorkingDeadSwipe/Models/TWD.cs" />
+      <File FileName="WorkingDeadSwipe/AssemblyInfo.cs" />
+      <File FileName="WorkingDeadSwipe/Models/ObservableProperty.cs" />
+      <File FileName="WorkingDeadSwipe.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkingDeadSwipe" expanded="True">
+            <Node name="WorkingDeadSwipe" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="MainSwipeViewModel.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="WorkingDeadSwipe.Android" expanded="True" />
+            <Node name="WorkingDeadSwipe.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorkingDeadSwipe.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.49FC2641-A2C2-43D4-807E-17A69AB40677" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

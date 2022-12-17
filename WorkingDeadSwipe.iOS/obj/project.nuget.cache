@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YUXvZHnCqw0OltDhX4JseNDlu4xJMUcfoi9bFWyBAzihp0xarqIBEHGyvE+CY+ShU8+CzadTp+8i+bhL60Xc7g==",
+  "success": true,
+  "projectFilePath": "/Users/seandavies/Projects/WorkingDeadSwipe/WorkingDeadSwipe.iOS/WorkingDeadSwipe.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/seandavies/.nuget/packages/cardsview/2.8.1/cardsview.2.8.1.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/seandavies/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
