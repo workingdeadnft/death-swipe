@@ -6,4 +6,4 @@ This is a simple prototype solution built by The Working Dead as a base for the 
 
 Tutorials coming soon.
 
-<img src="https://media.discordapp.net/attachments/1039659947413225592/1052534195706134548/Screenshot_2022-12-13_at_18.22.24.png?width=506&height=1058">
+<img src="https://media.discordapp.net/attachments/1039659947413225592/1052534195706134548/Screenshot_2022-12-13_at_18.22.24.png?width=253&height=529">
